@@ -1,0 +1,14 @@
+.gre
+{
+    width: 200px;
+}
+
+@media all and (max-width: 2000px)
+{
+    .header
+    {
+        background-color: cornflowerblue;
+    }
+
+}
+

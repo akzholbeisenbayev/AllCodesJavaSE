@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d0814610-7690-4ab4-a25a-9f11eed54d82" name="Apachi" url="http://localhost">
+        <fileTransfer mountedRoot="$PROJECT_DIR$/../mysql-connector-java-8.0.22 2/src/Apachi" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

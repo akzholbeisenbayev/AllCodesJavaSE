@@ -1,0 +1,12 @@
+milk
+500
+Fri Jan 14 19:16:07 ALMT 2022
+water
+150
+Fri Jan 14 19:16:07 ALMT 2022
+milk
+500
+Fri Jan 14 19:16:07 ALMT 2022
+afaf
+440
+Fri Jan 14 19:16:07 ALMT 2022

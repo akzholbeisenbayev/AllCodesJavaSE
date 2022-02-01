@@ -1,0 +1,30 @@
+.main {
+    width: 40%;
+    margin:auto;
+}
+
+#logoImage{
+    width: 450px;
+}
+.header{
+    width: 100%;
+    padding-top: 20px;
+}
+
+.menu{
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.menu button{
+    margin-top: 20px;
+}
+.mainInformation
+{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px lightgray solid;
+}
+
+#shrimps{
+    width: 450px;
+}

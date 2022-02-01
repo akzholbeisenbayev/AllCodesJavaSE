@@ -1,0 +1,199 @@
+@import url(reset.css);
+
+.main {
+    width: 60%;
+    margin:auto;
+}
+
+.header{
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px lightgray solid;
+}
+
+.linkButtons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.linkButtons a{
+    margin-left: 20px;
+    color:orange;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.header-image{
+    padding: 20px 0;
+    border-bottom: 1px lightgray solid;
+}
+
+.mainInformation
+{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px lightgray solid;
+}
+
+.info_about_us
+{
+    width: 30%;
+}
+
+.firstText
+{
+    padding: 10px 0;
+}
+.firstText p{
+    color: gray;
+}
+
+.readMore a
+{
+    color:orange;
+    text-decoration: none;
+}
+.arrow_and_aboutUs{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 5px black solid;
+}
+
+.arrow_and_aboutUs img
+{
+    padding-right: 15px;
+}
+
+.our_benefits
+{
+    width:30%;
+}
+
+.firstText2 p{
+    padding: 15px 0;
+    color: gray;
+}
+
+.secondText p{
+    padding-bottom: 15px;
+    color: gray;
+}
+
+.thirdText p{
+    padding-bottom: 15px;
+    color: gray;
+}
+.arrow_and_ourBenefits{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 5px black solid;
+}
+
+
+.arrow_and_ourBenefits img
+{
+    padding-right: 15px;
+}
+
+.testimonials {
+    width: 30%;
+
+}
+
+.testimonialsText{
+    color: gray;
+    padding: 10px 0;
+}
+
+.our_portfolio
+{
+    border-bottom: 1px lightgray solid;
+}
+.arrow_and_testimonials{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 5px black solid;
+}
+
+.arrow_and_testimonials img
+{
+    padding-right: 15px;
+}
+
+.textAuthor p{
+    font-style:italic;
+    color:gray;
+}
+
+
+.arrow_and_ourPortfolio
+{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+.arrow_and_ourPortfolio img
+{
+    padding-right: 15px;
+}
+
+.four_images{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.four_images img{
+    width: 190px;
+}
+
+.blog_updates
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-bottom: 1px lightgray solid;
+}
+
+
+.arrow_and_blogUpdates
+{
+    display: flex;
+    padding-right: 15px;
+    padding-bottom: 20px;
+}
+
+.arrow_and_blogUpdates img
+{
+    margin-right: 15px;
+}
+
+.textBlogUpdates
+{
+    color:gray;
+
+}
+
+
+.arrow_and_ConnectWithUs
+{
+    display: flex;
+}
+
+.arrow_and_ConnectWithUs img
+{
+    margin-right: 15px;
+}
+.footer {
+    width: 80%;
+}
